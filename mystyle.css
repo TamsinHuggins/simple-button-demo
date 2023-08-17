@@ -1,0 +1,17 @@
+li {
+  color: purple;
+}
+
+.greenText {
+  color: green;
+}
+
+#orangeOverride {
+  color: orange;
+}
+
+#myDiv {
+  background-color: black;
+  height: 500px;
+  width: 500px;
+}
